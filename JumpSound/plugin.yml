@@ -1,0 +1,6 @@
+name: JumpSound
+description: JumpSound plugin in PocketMine-MP
+main: Ru\JumpSound\JumpSound
+version: 1.0.0
+api: [3.0.0]
+author: IamRu_
